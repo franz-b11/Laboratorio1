@@ -1,1 +1,2 @@
-# Laboratorio1
+# Laboratorio1 
+El objetivo principal de este laboratorio es poner en práctica los conocimientos adquiridos de la programación en el mundo de la electrónica, dando inicio a un vehículo que se presta para funciones competitivas, para esto fue necesario el manejo de aplicaciones tales como proteus, mplab y Gihub, ahora bien, la necesidad de los conocimientos anteriores fueron útiles para la comprobación de hipótesis presentadas por el equipo de trabajo a la hora de analizar el vehículo y sus funciones, dando como resultado el presente trabajo 
